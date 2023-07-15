@@ -1,11 +1,11 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-    <groupId>com.github.tanky</groupId>
+    <groupId>io.github.tanky-zhang</groupId>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>big-smart-doc</artifactId>
     <packaging>jar</packaging>
-    <version>2.8.0</version>
+    <version>1.0.0</version>
 
     <name>big-smart-doc</name>
     <url>https://github.com/Tanky-Zhang/big-smart-doc.git</url>
